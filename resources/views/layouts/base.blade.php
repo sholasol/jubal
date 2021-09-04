@@ -698,7 +698,7 @@ $('#snackbar-user-status label').click(function() {
     }
 </script>
 <!-- Google API -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr4WUTzRVdoGV2TIPMFHYh7fgt2uG1km8&libraries=places&callback=activatePlaces"></script> 
+
 {{-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgeuuDfRlweIs7D6uo4wdIHVvJ0LonQ6g&libraries=places&callback=initAutocomplete"></script> --}}
 <script>
     var TxtRotate = function(el, toRotate, period) {
